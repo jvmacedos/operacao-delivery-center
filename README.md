@@ -152,7 +152,7 @@ Foi criado um tooltip avançado para o mapa, exibindo:
 - Lojas ativas
 
 # 📊 TELAS DO DASHBOARD
-## 1️⃣ Tela – Visão Geral!
+## 1️⃣ Tela – Visão Geral
 ![WhatsApp Image 2025-11-17 at 11 24 18](https://github.com/user-attachments/assets/4f679342-6f19-4a61-9615-2850a4a6f58b)
 
 🎯 Intenção da Tela
@@ -171,3 +171,72 @@ Gráficos:
 - Pedidos por Canal
 - Pedidos e Receita por Mês
 
+## 2️⃣ Tela – Comercial & Demanda
+![WhatsApp Image 2025-11-17 at 11 24 18 (1)](https://github.com/user-attachments/assets/bf547944-2e64-43bc-9b5d-d9482ea7c392)
+
+🎯 Intenção da Tela
+
+Avaliar os padrões de compra, comportamento dos clientes e desempenho comercial das lojas.
+
+KPI’s:
+- Total de Pedidos
+- Canais ativos
+- Lojas Ativas
+- Cidades atendidas
+
+Gráficos:
+- Pedidos por Canal
+- Pedidos por Dia da Semana
+- Pedidos por Loja
+- Mapa de Pedidos por Cidade
+
+## 3️⃣ Tela – Operação & Performance Logística
+![WhatsApp Image 2025-11-17 at 11 24 19](https://github.com/user-attachments/assets/85bbc912-8272-4e04-bebe-8595e985bf97)
+
+🎯 Intenção da Tela
+
+Avaliar a qualidade e a velocidade das entregas, analisando performance por hub e modal.
+
+KPI’s:
+- Mediana do Tempo de Entrega
+- % de Pedidos no Prazo
+- Distância Média
+- Custo Médio
+- % de pedidos cancelados
+
+Gráficos:
+- Tempo Médio por Hub
+- % no Prazo por Hub
+- Pedidos por Modal
+- Histograma de Tempo de Entrega
+
+## 4️⃣ Tela – Análise Geográfica
+![WhatsApp Image 2025-11-17 at 11 24 19 (1)](https://github.com/user-attachments/assets/278eeaa4-1f64-4e4f-ba37-909b74168f79)
+
+🎯 Intenção da Tela
+
+Visualizar a operação no território, entendendo concentração de hubs, lojas e cidades atendidas.
+
+KPI’s:
+- Quantidade de centros de distribuição (hubs)
+- Lojas Ativas
+- Cidades
+
+Gráficos:
+- Mapa de Pedidos por Cidade
+- Pedidos por Loja
+- Tabela de Hubs e Lojas
+
+# 🏁 Conclusão
+
+O projeto consolida o ciclo completo de Business Intelligence:
+		📌 Coleta → 📌 Tratamento → 📌 Modelagem → 📌 DAX → 📌 Design → 📌 Análise → 📌 Documentação
+Ele demonstra competências técnicas em:
+- Power BI
+- Modelagem dimensional
+- DAX avançado
+- ETL
+- UX para dashboards
+- Storytelling com dados
+
+E entrega uma visão detalhada da operação de delivery, permitindo tomadas de decisões rápidas e assertivas.
