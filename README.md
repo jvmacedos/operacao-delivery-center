@@ -1,7 +1,7 @@
-![WhatsApp Image 2025-11-17 at 11 24 18](https://github.com/user-attachments/assets/effbbc71-11a6-4d02-bd27-be98cc032083)#📦 Delivery Center – Business Intelligence Dashboard
-##Power BI • Modelagem em Estrela • DAX • UX/UI • Análise Comercial, Logística e Geográfica
+# 📦 Delivery Center – Business Intelligence Dashboard
+## Power BI • Modelagem em Estrela • DAX • UX/UI • Análise Comercial, Logística e Geográfica
 
-#📌 Descrição Geral do Projeto
+# 📌 Descrição Geral do Projeto
 Este projeto foi desenvolvido com o objetivo de consolidar e analisar dados de operação, demanda, logística e geografia em um ecossistema de delivery.
 O dashboard integra diversas fontes de dados e transforma informações brutas em insights estratégicos.
   Ele foi construído utilizando:
@@ -12,7 +12,7 @@ O dashboard integra diversas fontes de dados e transforma informações brutas e
 
 O resultado final é um painel completo que permite monitorar performance comercial, eficiência logística e comportamento geográfico, além de avaliar a qualidade da operação.
 
-#🧠 Objetivos do Dashboard
+# 🧠 Objetivos do Dashboard
 - Monitorar as principais métricas do negócio
 - Analisar o desempenho comercial por loja e por canal
 - Avaliar a eficiência logística e o SLA de entrega
@@ -20,8 +20,8 @@ O resultado final é um painel completo que permite monitorar performance comerc
 - Fornecer insights espaciais sobre demanda e operação
 - Auxiliar equipes de gestão na tomada de decisão baseada em dados
 
-#🛠 Processo Completo do Projeto
-##1️⃣ **Extração dos Dados**
+# 🛠 Processo Completo do Projeto
+## 1️⃣ **Extração dos Dados**
   Os dados foram disponibilizados em múltiplas tabelas CSV:
     - Pedidos
     - Hubs
@@ -36,7 +36,7 @@ Todos os arquivos foram armazenados em:
 📂 Google Drive
 Para permitir atualização automática no Power BI, sem necessidade de permissão adicional para avaliadores.
 
-##2️⃣ **Tratamento e Limpeza (Power Query)**
+## 2️⃣ **Tratamento e Limpeza (Power Query)**
   As principais transformações foram:
 
   ✔ Padronização:
@@ -58,7 +58,7 @@ Para permitir atualização automática no Power BI, sem necessidade de permiss�
     ✔ Dim_Hub 
     ✔ Dim_City
 
-##3️⃣ **Modelagem de Dados (Star Schema)**
+## 3️⃣ **Modelagem de Dados (Star Schema)**
 O modelo estrela foi adotado para fazer o relacionamento das tabelas dimensão para a tabela fato.
 
 Regras aplicadas:
@@ -151,7 +151,7 @@ Foi criado um tooltip avançado para o mapa, exibindo:
 - Receita
 - Lojas ativas
 
-#📊 TELAS DO DASHBOARD
+# 📊 TELAS DO DASHBOARD
 ## 1️⃣ Tela – Visão Geral!
 ![WhatsApp Image 2025-11-17 at 11 24 18](https://github.com/user-attachments/assets/4f679342-6f19-4a61-9615-2850a4a6f58b)
 
